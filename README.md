@@ -1,4 +1,4 @@
-# Poetry Branching Lab Exercise
+# Poetry Branching Lab Exercise 
 
 Repository for 224 class to practice branching and merging.
 
