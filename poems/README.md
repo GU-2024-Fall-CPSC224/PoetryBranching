@@ -1,1 +1,2 @@
-“I would like to thank Julius Caesar for originating my hairstyle.” -Kanye West
+# This is a directory of poems
+
