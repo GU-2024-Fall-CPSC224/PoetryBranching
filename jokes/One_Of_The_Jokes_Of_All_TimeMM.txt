@@ -1,0 +1,3 @@
+I tried to merge a bunch of directories together with my class once.
+We failed.
+We couldn't git our crap together.
